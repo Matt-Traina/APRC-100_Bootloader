@@ -17,7 +17,7 @@
           },
           "url": "https://matt-traina.github.io/APRC-100_Bootloader/Altronic_APRC-100.tar",
 		  "archiveFileName": "Altronic_APRC-100.tar",
-"checksum": "SHA-256:169143e6c8ecf64fb180d3e34b0438bb8bff6d7b6d8d8838045e20c10a894fc3",
+"checksum": "SHA-256:347bbfaa5a9ed8e0e886cec18e64f73d982ea43e3dc5e377693ab6a43ea49792",
           "size": "1193839",
           "boards": [
             {"name": "Altronic APRC 100"}
