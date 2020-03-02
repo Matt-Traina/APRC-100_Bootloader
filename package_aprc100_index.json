@@ -20,7 +20,7 @@
 "checksum": "SHA-256:d4e424f68baa568519977402f732fc206ddd10f6310b8922bfe6ce120a672552",
           "size": "1193839",
           "boards": [
-            {"name": "Altronic APRC 100"}
+            {"name": "Altronic APRC-100"}
           ],
           "toolsDependencies": []
         }
