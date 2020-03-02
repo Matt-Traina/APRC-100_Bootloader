@@ -1,0 +1,31 @@
+{
+  "packages": [
+    {
+      "name": "Altronic APRC 100",
+      "maintainer": "David Lepley",
+      "websiteURL": "http://www.altronic-llc.com",
+      "email": "david.lepley@hoerbiger.com",
+      "help": {"online": "http://www.altronic-llc.com"},
+      "platforms": [
+        {
+          "name": "Atronic APRC 100",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.altronic-llc.com"
+          },
+          "url": "https://github.com/Matt-Traina/APRC-100/tree/master/BootLoader/Altronic-APRC-100.tar",
+		  "archiveFileName": "Altronic-APRC-100.tar",
+"checksum": "SHA-256:53e9c7f45d378e361c875abd394cef07b72cc20fd2d506fe725725e2e27ff5d0",
+          "size": "1193839",
+          "boards": [
+            {"name": "Altronic APRC 100"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
