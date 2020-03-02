@@ -1,14 +1,14 @@
 {
   "packages": [
     {
-      "name": "Altronic APRC 100",
-      "maintainer": "David Lepley",
+      "name": "Altronic APRC-100",
+      "maintainer": "Altronic",
       "websiteURL": "http://www.altronic-llc.com",
       "email": "david.lepley@hoerbiger.com",
       "help": {"online": "http://www.altronic-llc.com"},
       "platforms": [
         {
-          "name": "Atronic APRC 100",
+          "name": "Atronic APRC-100",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
