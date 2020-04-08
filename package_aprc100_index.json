@@ -19,7 +19,7 @@
 		  "archiveFileName": "Altronic.zip",
 "checksum": "SHA-256:43fb1ceb162edcf13e9d366af0285c0b91299839f4d1e99b7db52f0ee6eb2fdf",
 
-          "size": "1193839",
+          "size": "4425836",
           "boards": [
             {"name": "Altronic APRC-100"},
 			{"name": "Altronic AFR-500"}
