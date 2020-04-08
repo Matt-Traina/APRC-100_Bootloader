@@ -8,19 +8,21 @@
       "help": {"online": "http://www.altronic-llc.com"},
       "platforms": [
         {
-          "name": "Atronic APRC-100",
+          "name": "Altronic Boards",
           "architecture": "samd",
-          "version": "1.0.0",
+          "version": "1.1.0",
           "category": "Contributed",
           "help": {
             "online": "http://www.altronic-llc.com"
           },
-          "url": "https://matt-traina.github.io/APRC-100_Bootloader/Altronic_APRC-100.tar",
-		  "archiveFileName": "Altronic_APRC-100.tar",
-"checksum": "SHA-256:ca8e78ac8cba2c67c867523a00da6917238879e184fc35e312a6df085f481880",
+          "url": "https://matt-traina.github.io/APRC-100_Bootloader/Altronic.zip",
+		  "archiveFileName": "Altronic.zip",
+"checksum": "SHA-256:026168544c417f0d867d3bcc4a4885ffe602f546f8356d388d6fefe070a8195e",
+
           "size": "1193839",
           "boards": [
-            {"name": "Altronic APRC-100"}
+            {"name": "Altronic APRC-100"},
+			{"name": "Altronic AFR-500"}
           ],
           "toolsDependencies": []
         }
